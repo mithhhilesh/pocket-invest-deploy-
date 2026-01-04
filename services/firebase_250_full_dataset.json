@@ -1,0 +1,59 @@
+{
+  "users": {
+    "u01": { "uid": "u01", "name": "Aarav Sharma", "email": "aarav@gmail.com", "riskLevel": "Low" },
+    "u02": { "uid": "u02", "name": "Meera Patel", "email": "meera@gmail.com", "riskLevel": "Medium" },
+    "u03": { "uid": "u03", "name": "Rohan Verma", "email": "rohan@gmail.com", "riskLevel": "High" },
+    "u04": { "uid": "u04", "name": "Ananya Singh", "email": "ananya@gmail.com", "riskLevel": "Low" },
+    "u05": { "uid": "u05", "name": "Kunal Mehta", "email": "kunal@gmail.com", "riskLevel": "Medium" },
+    "u06": { "uid": "u06", "name": "Pooja Nair", "email": "pooja@gmail.com", "riskLevel": "Low" },
+    "u07": { "uid": "u07", "name": "Arjun Rao", "email": "arjun@gmail.com", "riskLevel": "High" },
+    "u08": { "uid": "u08", "name": "Sneha Kulkarni", "email": "sneha@gmail.com", "riskLevel": "Medium" },
+    "u09": { "uid": "u09", "name": "Yash Gupta", "email": "yash@gmail.com", "riskLevel": "High" },
+    "u10": { "uid": "u10", "name": "Isha Malhotra", "email": "isha@gmail.com", "riskLevel": "Low" }
+  },
+
+  "wallets": {
+    "u01": { "walletBalance": 3200, "bankBalance": 54000 },
+    "u02": { "walletBalance": 7800, "bankBalance": 62000 },
+    "u03": { "walletBalance": 1500, "bankBalance": 88000 },
+    "u04": { "walletBalance": 4600, "bankBalance": 47000 },
+    "u05": { "walletBalance": 6100, "bankBalance": 71000 },
+    "u06": { "walletBalance": 9200, "bankBalance": 39000 },
+    "u07": { "walletBalance": 2800, "bankBalance": 95000 },
+    "u08": { "walletBalance": 5400, "bankBalance": 68000 },
+    "u09": { "walletBalance": 3600, "bankBalance": 84000 },
+    "u10": { "walletBalance": 8900, "bankBalance": 52000 }
+  },
+
+  "investments": {
+    "u01": { "SIP": 3000, "MutualFunds": 2000, "FixedDeposit": 5000, "GovernmentBonds": 1500 },
+    "u02": { "SIP": 5000, "MutualFunds": 4000, "FixedDeposit": 3000, "GovernmentBonds": 2000 },
+    "u03": { "SIP": 8000, "MutualFunds": 6000, "FixedDeposit": 2000, "GovernmentBonds": 1000 },
+    "u04": { "SIP": 2000, "MutualFunds": 1500, "FixedDeposit": 6000, "GovernmentBonds": 3000 },
+    "u05": { "SIP": 4500, "MutualFunds": 3500, "FixedDeposit": 4000, "GovernmentBonds": 2500 },
+    "u06": { "SIP": 1800, "MutualFunds": 1200, "FixedDeposit": 7000, "GovernmentBonds": 3200 },
+    "u07": { "SIP": 9000, "MutualFunds": 5000, "FixedDeposit": 1500, "GovernmentBonds": 800 },
+    "u08": { "SIP": 3800, "MutualFunds": 2800, "FixedDeposit": 4200, "GovernmentBonds": 2100 },
+    "u09": { "SIP": 7200, "MutualFunds": 4800, "FixedDeposit": 2000, "GovernmentBonds": 900 },
+    "u10": { "SIP": 2500, "MutualFunds": 1800, "FixedDeposit": 6000, "GovernmentBonds": 2700 }
+  },
+
+  "transactions": {
+    "u01": {
+      "t1": { "type": "Investment", "category": "SIP", "asset": "Nifty 50 Index Fund", "amount": 1000, "timestamp": 1736500000000 },
+      "t2": { "type": "Investment", "category": "FD", "asset": "SBI Fixed Deposit", "amount": 2000, "timestamp": 1736600000000 }
+    },
+    "u02": {
+      "t1": { "type": "Investment", "category": "MF", "asset": "Axis Bluechip Fund", "amount": 3000, "timestamp": 1736400000000 }
+    },
+    "u03": {
+      "t1": { "type": "Investment", "category": "SIP", "asset": "ICICI Prudential Equity", "amount": 4000, "timestamp": 1736300000000 }
+    }
+  },
+
+  "faqs": {
+    "f1": { "question": "Is my money safe?", "answer": "Yes, all investments follow RBI guidelines." },
+    "f2": { "question": "Can I withdraw anytime?", "answer": "Wallet balance can be withdrawn anytime." },
+    "f3": { "question": "What is SIP?", "answer": "SIP allows investing small amounts regularly." }
+  }
+}
