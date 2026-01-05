@@ -10,7 +10,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Powered by Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
-**ByteQuest 2025 | Vibe Coding Hackathon**
+**ByteQuest 2025 | Vibe Coding Hackathon | Organised by GFG RBU**
 
 [Live Demo](https://pocket-invest-deploy-git-main-mithhhileshs-projects.vercel.app/) · [Report Bug](https://github.com/mithhhilesh/GFGBQ-Team-dnyanesh/issues) · [Request Feature](https://github.com/mithhhilesh/GFGBQ-Team-dnyanesh/issues)
 
@@ -112,8 +112,8 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mithhhilesh/GFGBQ-Team-dnyanesh.git
-   cd GFGBQ-Team-dnyanesh
+   git clone https://github.com/mithhhilesh/pocket-invest-deploy-.git
+   cd pocket-invest-deploy-
    ```
 
 2. **Install dependencies**
@@ -172,7 +172,7 @@ Ensure you have the following installed on your system:
 ## 📁 Project Structure
 
 ```
-GFGBQ-Team-dnyanesh/
+pocket-invest-deploy-/
 ├── src/
 │   ├── components/     # Reusable React components
 │   ├── pages/          # Page components
@@ -194,7 +194,7 @@ GFGBQ-Team-dnyanesh/
 
 <div align="center">
 
-### Team Dnyanesh
+### Team Dnyanesh 
 
 | Member | Role | GitHub |
 |--------|------|--------|
